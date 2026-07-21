@@ -5,7 +5,7 @@
         "start": "blueprint run"
     },
     "devDependencies": {
-        "@ton/blueprint": "^0.24.0",
+        "@ton/blueprint": "^0.45.0",
         "@ton/sandbox": "^0.22.0",
         "@ton/test-utils": "^0.4.2",
         "@types/jest": "^29.5.13",
